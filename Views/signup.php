@@ -19,7 +19,7 @@ if (isset($_SESSION["user"])) {
      <a href="index1.html" target="_self"><h1>SvaraVilasa</h1></a> 
     </div>
     <div class="navbar-links">
-      <a href="index1.html" target="_self">Home</a>
+      <a href="index.html" target="_self">Home</a>
       <a href="Login.php" target="_self">Login</a>
 
     </div>
@@ -30,18 +30,6 @@ if (isset($_SESSION["user"])) {
       <h1>Ready to grove </h1>
       <form action="signup.php" method="POST">
 
-
-        <!-- <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required>
-        <label for="Mobile Number">Mobile Number</label>
-        <input type="number" id="Mob" name="Mob" required>
-        <label for="username">Username:</label>
-        <input type="text" id="username" name="username" required>
-        <label for="password">Password:</label>
-        <input type="password" id="password" name="password" required>
-        <label for="password">Confirm Password:</label>
-        <input type="password" id="Cnfpassword" name="Cnfpassword" required>
-        <button type="submit">Sign Up</button> -->
 
         <div class="form-group">
                 <input type="text" class="form-control" name="Name" placeholder="Fullname">
@@ -105,12 +93,7 @@ if (isset($_SESSION["user"])) {
                         '</br>';
                     }
                 }else{
-                    // Insert the data into the dataBase
-                    // require_once "database.php";
-                    // $sql= "INSERT INTO `login` (`Name`, `Email`, `Password`, `ConfirmPassword`, `Time`)
-                    // VALUES ('$Name', '$Email', '$Password', '$ConfirmPassword', current_timestamp())"; 
-
-                    // mysqli_query($conn,$sql);
+                
 
                                                 // These variables are present in the login tebles of the database
                     $sql= "INSERT INTO `login` (`Name`, `Email`, `Password`, `ConfirmPassword`, `Time`)     

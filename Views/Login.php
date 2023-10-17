@@ -11,7 +11,7 @@ if (isset($_SESSION["user"])) {
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="../Public/login.css">
-  <title>Login</title>
+  <title>SvaraVilasa:Login</title>
 </head>
 <body>
   <div class="navbar">
@@ -26,10 +26,10 @@ if (isset($_SESSION["user"])) {
   <div class="login-container">
     <div class="login-box">
       <h1>Feel the Music</h1>
-      <!-- <form action="login" method="POST"> -->
+      
 
       <form action="Login.php" method="post">
-      <!-- <h1 style="text-align: center; color: red;">Login Form</h1> -->
+     
 
         <?php
         if(isset($_POST["Login"])){        // fetching data on clicking on login button
@@ -58,11 +58,7 @@ if (isset($_SESSION["user"])) {
         ?>
 
         
-        <!-- <label for="username">Email Id:</label>
-        <input type="text" id="username" name="username" required>
-        <label for="password">Password:</label>
-        <input type="password" id="password" name="password" required>
-        <button type="submit">Login</button> -->
+       
 
             <div class="form-group">
                 <input type="email" class="form-control" required name="Email" placeholder="Enter Email" autocomplete="off">
@@ -71,7 +67,7 @@ if (isset($_SESSION["user"])) {
                 <input type="password" class="form-control"required name="Password" placeholder="Enter Password" autocomplete="off">
             </div>
             <div class="form-group">
-                <input type="submit" name="Login" class="btn btn-primary" value="Login">             <!--Remember the type to be submit-->
+                <input type="submit" name="Login" class="btn btn-primary" value="Login">             
             </div>
       </form>
       <p class="signup-link">Don't have an account? <a href="signup.php">Sign up here</a></p>
