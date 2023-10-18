@@ -59,5 +59,5 @@ Future Enhancements:
 
 SvaraVilasa aims to deliver a captivating music streaming experience, combining functionality with an aesthetically pleasing design.
 
-![Screenshot 1](Public/img.png)
+![Screenshot 1](../Public/img.png)
 
