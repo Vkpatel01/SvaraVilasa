@@ -60,28 +60,38 @@ Future Enhancements:
 SvaraVilasa aims to deliver a captivating music streaming experience, combining functionality with an aesthetically pleasing design.
 
 Here are some glimpse of our pages:
+
 **Home Page**
 ![Screenshot 1](/Public/img1.png)
 2. **Home Page before Login**
+
 ![Screenshot 2](/Public/img2.png)
 3.**Sign Up Page**
+
 ![Screenshot 3](/Public/img3.png)
 4.**Login Page**
+
 ![Screenshot 4](/Public/img4.png)
-![Screenshot 5](/Public/img5.png)
 5.**Home Page after Login**
-![Screenshot 6](/Public/img6.png)
+![Screenshot 5](/Public/img5.png)
 6.**My Account Page**
-![Screenshot 7](/Public/img7.png)
+
+![Screenshot 6](/Public/img6.png)
 7.**Playlists Page**
-![Screenshot 8](/Public/img8.png)
+
+![Screenshot 7](/Public/img7.png)
 8.**About Us Page**
-![Screenshot 9](/Public/img9.png)
+
+![Screenshot 8](/Public/img8.png)
 9.**Contact Us Page**
+
+![Screenshot 9](/Public/img9.png)
 ![Screenshot 10](/Public/img10.png)
 10.**MusicPlayer**
+
 ![Screenshot 11](/Public/img11.png)
 11.**Uses of Xampp**
+
 ![Screenshot 12](/Public/img12.png)
 ![Screenshot 13](/Public/img13.png)
 
