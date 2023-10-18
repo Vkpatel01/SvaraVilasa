@@ -15,7 +15,7 @@ Key Features:
 
 3. Login and Signup:
    - Users can securely log in or create an account using the dedicated pages.
-   - The login page includes a responsive design and a video background for an immersive experience.
+   - The login page includes a responsive design for an immersive experience.
 
 4. Dashboard After Login:
    - Upon logging in, users are directed to a personalized dashboard.
@@ -54,7 +54,7 @@ Future Enhancements:
 - Implementing user authentication and authorization for secure access.
 - Expanding the song library and categories.
 - Enhancing the music player with additional features.
-- Showing the proper details of the user in the My Account page.
+- Showing the proper details of the user on the My Account page.
 - Give access to the user to create it’s own playlist and add the songs as per it’s preferences.
 
 SvaraVilasa aims to deliver a captivating music streaming experience, combining functionality with an aesthetically pleasing design.
