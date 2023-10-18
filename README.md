@@ -3,7 +3,7 @@
 
 SvaraVilasa Music Streaming Website
 
-SvaraVilasa is a comprehensive music streaming website designed by Vishal Kumar Patel and Abhisek Raj to provide users with a seamless and enjoyable music experience. The website is built using HTML, CSS, and JavaScript for the frontend, while PHP is employed for the backend. MySQL serves as the database to store user data, song details, and other relevant information.
+SvaraVilasa is a comprehensive music streaming website designed by Vishal Kumar Patel and Abhishek Raj to provide users with a seamless and enjoyable music experience. The website is built using HTML, CSS, and JavaScript for the frontend, while PHP is employed for the backend. MySQL serves as the database to store user data, song details, and other relevant information.
 
 Key Features:
 1. User-Friendly Interface: The website boasts an intuitive and visually appealing interface, offering easy navigation and a delightful user experience.
@@ -59,17 +59,29 @@ Future Enhancements:
 
 SvaraVilasa aims to deliver a captivating music streaming experience, combining functionality with an aesthetically pleasing design.
 
+Here are some glimpse of our pages:
+**Home Page**
 ![Screenshot 1](/Public/img1.png)
+2. **Home Page before Login**
 ![Screenshot 2](/Public/img2.png)
+3.**Sign Up Page**
 ![Screenshot 3](/Public/img3.png)
+4.**Login Page**
 ![Screenshot 4](/Public/img4.png)
 ![Screenshot 5](/Public/img5.png)
+5.**Home Page after Login**
 ![Screenshot 6](/Public/img6.png)
+6.**My Account Page**
 ![Screenshot 7](/Public/img7.png)
+7.**Playlists Page**
 ![Screenshot 8](/Public/img8.png)
+8.**About Us Page**
 ![Screenshot 9](/Public/img9.png)
+9.**Contact Us Page**
 ![Screenshot 10](/Public/img10.png)
+10.**MusicPlayer**
 ![Screenshot 11](/Public/img11.png)
+11.**Uses of Xampp**
 ![Screenshot 12](/Public/img12.png)
 ![Screenshot 13](/Public/img13.png)
 
