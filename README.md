@@ -3,14 +3,14 @@
 
 SvaraVilasa Music Streaming Website
 
-SvaraVilasa is a comprehensive music streaming website designed by Vishal Kumar Patel and Abhisek Raj to provide users with a seamless and enjoyable music experience. The website is built using HTML, CSS, and JavaScript for the frontend, while Php is employed for the backend. MySQL serves as the database to store user data, song details, and other relevant information.
+SvaraVilasa is a comprehensive music streaming website designed by Vishal Kumar Patel and Abhisek Raj to provide users with a seamless and enjoyable music experience. The website is built using HTML, CSS, and JavaScript for the frontend, while PHP is employed for the backend. MySQL serves as the database to store user data, song details, and other relevant information.
 
 Key Features:
 1. User-Friendly Interface: The website boasts an intuitive and visually appealing interface, offering easy navigation and a delightful user experience.
 
 2. Homepage Before Login:
    - A welcoming pop-up greets users upon entering the website.
-   - The main page features a navbar with links to Home, My Music, Downloads, and Account Details.
+   - The main page features a navbar with links to Home, Login, SignUp, and About Us.
    - Music albums are showcased in the center of the page, inviting users to explore.
 
 3. Login and Signup:
@@ -19,7 +19,7 @@ Key Features:
 
 4. Dashboard After Login:
    - Upon logging in, users are directed to a personalized dashboard.
-   - The navbar includes links to Home, My Music, Downloads, and Account Details.
+   - The navbar includes links to Home, Playlists, and Account Details, etc.
 
 5. Music Categories:
    - Various music categories such as Sad Songs, Romantic Songs, Workout Music, Devotional and Prayers, English Songs, Punjabi Songs, and more are presented.
@@ -47,7 +47,7 @@ Key Features:
 
 Technologies Used:
 - Frontend: HTML, CSS, JavaScript
-- Backend: Php
+- Backend: PHP
 - Database: MySQL
 
 Future Enhancements:
@@ -55,7 +55,7 @@ Future Enhancements:
 - Expanding the song library and categories.
 - Enhancing the music player with additional features.
 - Showing the proper details of the user on the My Account page.
-- Give access to the user to create it’s own playlist and add the songs as per it’s preferences.
+- Give access to the user to create their own playlist and add the songs as per their preferences.
 
 SvaraVilasa aims to deliver a captivating music streaming experience, combining functionality with an aesthetically pleasing design.
 
